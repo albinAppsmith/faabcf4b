@@ -1,0 +1,25 @@
+{
+  "name": "Untitled organization 5",
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D6D1F2",
+  "icon": "money",
+  "slug": "untitled-organization-5",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1646936471,
+    "nanos": 808000000
+  },
+  "deleted": false,
+  "policies": [],
+  "userPermissions": [
+    "manage:applications",
+    "canComment:applications",
+    "export:applications",
+    "read:applications",
+    "publish:applications",
+    "makePublic:applications"
+  ]
+}
